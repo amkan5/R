@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530604282331.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "103256298",
+    "id" : "CBCF44EB",
+    "lastKnownWriteTime" : 1530605427,
+    "last_content_update" : 1530605427561,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/rlang_201Grade/rlng_oracle.R",
+    "project_path" : "rlng_oracle.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

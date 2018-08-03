@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530605258878.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2028736518",
+    "id" : "2F04B0CA",
+    "lastKnownWriteTime" : 1530705404,
+    "last_content_update" : 1530705404482,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/rlang_201Grade/rlng_data.R",
+    "project_path" : "rlng_data.R",
+    "properties" : {
+        "cursorPosition" : "57,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

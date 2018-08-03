@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530582431253.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "869560368",
+    "id" : "BB8BEF8B",
+    "lastKnownWriteTime" : 1530589848,
+    "last_content_update" : 1530589848185,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/rlang_201Grade/rlang_202_rps.R",
+    "project_path" : "rlang_202_rps.R",
+    "properties" : {
+        "cursorPosition" : "11,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

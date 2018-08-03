@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530690743983.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "694588266",
+    "id" : "2871C139",
+    "lastKnownWriteTime" : 1530705404,
+    "last_content_update" : 1530705404762,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/rlang_201Grade/rlng_020_liblary_dplyr.R",
+    "project_path" : "rlng_020_liblary_dplyr.R",
+    "properties" : {
+        "cursorPosition" : "29,9",
+        "scrollLine" : "7",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

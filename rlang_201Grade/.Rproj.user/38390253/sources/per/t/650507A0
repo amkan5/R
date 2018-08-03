@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530587573902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2409936416",
+    "id" : "650507A0",
+    "lastKnownWriteTime" : 1530604376,
+    "last_content_update" : 1530604376894,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/rlang_201Grade/rlang_matrix.R",
+    "project_path" : "rlang_matrix.R",
+    "properties" : {
+        "cursorPosition" : "45,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530493330822.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2052693097",
+    "id" : "590E5ADD",
+    "lastKnownWriteTime" : 1530578011,
+    "last_content_update" : 1530578011226,
+    "path" : "C:/Users/1027/JavaWorkspace/RSpace/Practice/fist_file.R",
+    "project_path" : "fist_file.R",
+    "properties" : {
+        "cursorPosition" : "131,10",
+        "scrollLine" : "116",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
